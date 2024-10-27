@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning different data analysis tools and how to apply them to business-related questions
 - 📫 How to reach me : (Phone) - 925-305-0745, (E-mail) - rwatkinsnelson@sfsu.edu
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I taught myself guitar when I first started college cause it was always a passion of mine
+- ⚡ Fun fact: After graduating high school I learned how to play guitar and it is one of my favorite hobbies. 
+              
 
 <!---
 ReeseWatkinsNelson/ReeseWatkinsNelson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

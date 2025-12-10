@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ReeseWatkinsNelson, Welcome to my GitHub page
 - 👀 This is my portfolio of data-related projects and assignments 
 - 🌱 I’m currently learning how to apply different data analysis tools to business-related questions
-- 📫 How to reach me : (Phone) - 925-305-0745, (E-mail) - rwatkinsnelson@sfsu.edu
+- 📫 How to reach me : (Phone) - 925-305-0745, (E-mail) - rwatkinsnelson@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: After graduating high school I learned how to play guitar and it is one of my favorite hobbies. 
               
